@@ -10,7 +10,7 @@ Backpack			http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12629
 
 Chisel				http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/ (Minimal progress)
 
-EnderIO       http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291161 (Mostly done; only items are: Electromagnet, Yeta Wrench, Glider Wing/Glider Wings [seperate items], and Soul Vial)
+EnderIO       http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291161 (Mostly done; a few items and armor models)
 
 ExtraBees			http://extrabees.accudio.com/ (Partial, most textures done)
 
@@ -43,10 +43,6 @@ A list of quick projects if you would like to make a small contribution. These a
 Border Stone from Extra Utilities
 
 Drum from Extra Utilities
-
-Nether Berry Bushes from Natura
-
-Heat Glass from Natura
 
 Flesh from Biomes O' Plenty
 
