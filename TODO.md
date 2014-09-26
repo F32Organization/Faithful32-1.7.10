@@ -10,6 +10,8 @@ Backpack			http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12629
 
 Chisel				http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/ (Minimal progress)
 
+EnderIO       http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291161 (Mostly done; only items are: Electromagnet, Yeta Wrench, Glider Wing/Glider Wings [seperate items], and Soul Vial)
+
 ExtraBees			http://extrabees.accudio.com/ (Partial, most textures done)
 
 ExtraTiC			http://www.minecraftforum.net/topic/1985397-forge-extratic-tinkers-construct-metallurgy-add-on/ (Some progress, a lot of recoloring existing stuff)
