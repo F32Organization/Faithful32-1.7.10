@@ -34,7 +34,9 @@ Power Converters		http://www.minecraftforum.net/topic/1695968-164-samrg472s-mods
 
 Project Red			http://ci.indiewikis.com:8080/job/Project%20Red/ (Some progress, lots more to complete)
 
-Thermal Expansion		http://teamcofh.com/ (Needs liquids, pyrotheum dust)
+Thermal Expansion		http://teamcofh.com/ (Augments, Signalum Security Lock, Sawdust, Compressed Sawdust, Redprint, Sponges, Invar Fishing Rod/Bow, Satchels, Caches,)
+
+Thermal Foundation  http://teamcofh.com/ (Primal mana, All dusts, Most gears, Signalum blend, All buckets, nuggets)
 
 Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-construct/ (Needs decoration blocks.)
 
