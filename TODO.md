@@ -20,13 +20,13 @@ ExtraTrees			http://extratrees.accudio.com/ (Some progress)
 
 Forestry			http://forestry.sengir.net/wiki.new/doku.php (Needs some tree's, butterflies, some saplings)
 
-JABBA				http://www.minecraftforum.net/topic/2182366-16x-jabba-103-just-another-better-barrel-attempt/ (Not started)
+JABBA				http://www.minecraftforum.net/topic/2182366-16x-jabba-103-just-another-better-barrel-attempt/ (Needs redoing, dynamic texture system being used)
 
 Mekanism			http://ci.indiewikis.com:8080/job/Mekanism/ (Need some armor models)
 
 Metallurgy			http://www.minecraftforum.net/topic/744918-164forgesmp-metallurgy-putting-the-mine-back-in-minecraft/ (Most blocks done)
 
-Natura				http://www.minecraftforum.net/topic/1753754-16xnatura/ (Need crops and some trees.)
+Natura				http://www.minecraftforum.net/topic/1753754-16xnatura/ (Done?)
 
 OpenBlocks			http://www.minecraftforum.net/topic/1941514-16x-openblocks-122/ (Lots of progress, a bit more to complete)
 
@@ -34,7 +34,7 @@ Power Converters		http://www.minecraftforum.net/topic/1695968-164-samrg472s-mods
 
 Project Red			http://ci.indiewikis.com:8080/job/Project%20Red/ (Some progress, lots more to complete)
 
-Thermal Expansion		http://teamcofh.com/ (Augments, Signalum Security Lock, Sawdust, Compressed Sawdust, Redprint, Sponges, Invar Fishing Rod/Bow, Satchels, Caches,)
+Thermal Expansion		http://teamcofh.com/ (Augments, Signalum Security Lock, Redprint, Sponges, Satchels, Caches,)
 
 Thermal Foundation  http://teamcofh.com/ (Primal mana, All dusts, Most gears, Signalum blend, All buckets, nuggets)
 
