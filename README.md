@@ -23,6 +23,6 @@ This means you may use this pack or modify it in any way you see fit. You may no
 
 2) Run Minecraft, select "Options...", select "Resource Packs", select "Open resource pack folder".
 
-3) Drag and drop the zip file into the texture pack folder.
+3) Drag and drop the zip file into the resource pack folder.
 
 4) Go back to Minecraft and select the Faithful 32x32 pack and you are done.
