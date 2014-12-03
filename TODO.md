@@ -8,15 +8,13 @@ Mods are expected to be organized alphanumerically and have some indication of a
 
 Backpack			http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12629/ (Complete, needs restyling)
 
-Chisel				http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/ (Minimal progress)
+Chisel				http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2254671-chisel-2-2-1-0-0 (Minimal progress)
 
-EnderIO       http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291161 (Mostly done; a few items and armor models)
+EnderIO             http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291161 (Mostly done; a few items and armor models)
 
-ExtraBees			http://extrabees.accudio.com/ (Partial, most textures done)
+Binne's Mods		http://binnie.mods.wiki/wiki/Main_Page (is the set of ExtraBees,ExtraTrees,Genetics and Botany. Some progress, most textures done)
 
 ExtraTiC			http://www.minecraftforum.net/topic/1985397-forge-extratic-tinkers-construct-metallurgy-add-on/ (Some progress, a lot of recoloring existing stuff)
-
-ExtraTrees			http://extratrees.accudio.com/ (Some progress)
 
 Forestry			http://forestry.sengir.net/wiki.new/doku.php (Needs some tree's, butterflies, some saplings)
 
@@ -26,27 +24,27 @@ Mekanism			http://ci.indiewikis.com:8080/job/Mekanism/ (Need some armor models)
 
 Metallurgy			http://www.minecraftforum.net/topic/744918-164forgesmp-metallurgy-putting-the-mine-back-in-minecraft/ (Most blocks done)
 
-Natura				http://www.minecraftforum.net/topic/1753754-16xnatura/ (Done?)
+Natura				http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura (Done?)
 
 OpenBlocks			http://www.minecraftforum.net/topic/1941514-16x-openblocks-122/ (Lots of progress, a bit more to complete)
 
-Power Converters		http://www.minecraftforum.net/topic/1695968-164-samrg472s-mods-powerconverters-alpha-builds/ (Some progress)
+Power Converters	http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293983-powerconverters-originally-by-powercrystals (Some progress)
 
-Project Red			http://ci.indiewikis.com:8080/job/Project%20Red/ (Some progress, lots more to complete)
+Project Red			http://projectredwiki.com/wiki/Version_archive (Some progress, lots more to complete)
 
-Thermal Expansion		http://teamcofh.com/ (Augments, Signalum Security Lock, Redprint, Sponges, Satchels, Caches,)
+Thermal Expansion	http://teamcofh.com/ (Augments, Signalum Security Lock, Redprint, Sponges, Satchels, Caches,)
 
 Thermal Foundation  http://teamcofh.com/ (Primal mana, All dusts, Most gears, Signalum blend, All buckets, nuggets)
 
-Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-construct/ (Needs decoration blocks.)
+Tinkers Construct	http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct (Needs decoration blocks)
 
 A list of quick projects if you would like to make a small contribution. These are organized from most important to least.
+
+Flesh from Biomes O' Plenty
 
 Border Stone from Extra Utilities
 
 Drum from Extra Utilities
-
-Flesh from Biomes O' Plenty
 
 Mossy Skystone from Biomes O' Plenty
 
@@ -55,10 +53,6 @@ Brownstone from Tinkers Construct
 Mob Chunks from DartCraft
 
 Furnaces/Macerators/Compressors from DartCraft
-
-Plates from IC2
-
-Seedbags from IC2
 
 
 

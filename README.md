@@ -1,7 +1,7 @@
 Faithful32-1.7.10
 =================
 
-**Found this page via Google and looking for the vanilla pack?** www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254
+**Found this page via Google and looking for the vanilla pack?**  http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254
 
 **Description:**
 
