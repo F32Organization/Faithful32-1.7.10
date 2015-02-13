@@ -1,0 +1,101 @@
+﻿# Underground Biomes localization
+# ===============================
+# Blocks
+
+tile.igneousStone.redGranite.name=Granite rouge
+tile.igneousStone.blackGranite.name=Granite noir
+tile.igneousStone.rhyolite.name=Rhyolite
+tile.igneousStone.andesite.name=Andésite
+tile.igneousStone.gabbro.name=Gabbro
+tile.igneousStone.basalt.name=Basalte
+tile.igneousStone.komatiite.name=Komatiite
+tile.igneousStone.dacite.name=Dacite
+
+tile.igneousCobblestone.redGranite.name=Pierre de granite rouge
+tile.igneousCobblestone.blackGranite.name=Pierre de granite noir
+tile.igneousCobblestone.rhyolite.name=Pierre de rhyolite
+tile.igneousCobblestone.andesite.name=Pierre d'andésite
+tile.igneousCobblestone.gabbro.name=Pierre de gabbro
+tile.igneousCobblestone.basalt.name=Pierre de basalte
+tile.igneousCobblestone.komatiite.name=Pierre de komatiite
+tile.igneousCobblestone.dacite.name=Pierre de dacite
+
+tile.igneousStoneBrick.redGranite.name=Brique de granite rouge
+tile.igneousStoneBrick.blackGranite.name=Brique de granite noir
+tile.igneousStoneBrick.rhyolite.name=Brique de rhyolite
+tile.igneousStoneBrick.andesite.name=Brique d'andésite
+tile.igneousStoneBrick.gabbro.name=Brique de gabbro
+tile.igneousStoneBrick.basalt.name=Brique de basalte
+tile.igneousStoneBrick.komatiite.name=Brique de komatiite
+tile.igneousStoneBrick.dacite.name=Brique de dacite
+
+tile.metamorphicStone.gneiss.name=Gneiss
+tile.metamorphicStone.eclogite.name=Éclogite
+tile.metamorphicStone.marble.name=Marbre
+tile.metamorphicStone.quartzite.name=Quartzite
+tile.metamorphicStone.blueschist.name=Schiste bleu
+tile.metamorphicStone.greenschist.name=Schiste vert
+tile.metamorphicStone.soapstone.name=Talc
+tile.metamorphicStone.migmatite.name=Migmatite
+
+tile.metamorphicCobblestone.gneiss.name=Pierre de gneiss
+tile.metamorphicCobblestone.eclogite.name=Pierre d'éclogite
+tile.metamorphicCobblestone.marble.name=Pierre de marbre
+tile.metamorphicCobblestone.quartzite.name=Pierre de quartzite
+tile.metamorphicCobblestone.blueschist.name=Pierre de schiste bleu
+tile.metamorphicCobblestone.greenschist.name=Pierre de schiste vert
+tile.metamorphicCobblestone.soapstone.name=Pierre de talc
+tile.metamorphicCobblestone.migmatite.name=Pierre de migmatite
+
+tile.metamorphicStoneBrick.gneiss.name=Brique de gneiss
+tile.metamorphicStoneBrick.eclogite.name=Brique d'éclogite
+tile.metamorphicStoneBrick.marble.name=Brique de marbre
+tile.metamorphicStoneBrick.quartzite.name=Brique de quarztite
+tile.metamorphicStoneBrick.blueschist.name=Brique de schiste bleu
+tile.metamorphicStoneBrick.greenschist.name=Brique de schiste vert
+tile.metamorphicStoneBrick.soapstone.name=Brique de talc
+tile.metamorphicStoneBrick.migmatite.name=Brique de migmatite
+
+tile.sedimentaryStone.limestone.name=Calcaire
+tile.sedimentaryStone.chalk.name=Craie
+tile.sedimentaryStone.shale.name=Argilite
+tile.sedimentaryStone.siltstone.name=Siltite
+tile.sedimentaryStone.ligniteBlock.name=Bloc de lignite
+tile.sedimentaryStone.dolomite.name=Dolomie
+tile.sedimentaryStone.greywacke.name=Grauwacke
+tile.sedimentaryStone.chert.name=Chaille
+
+tile.igneousBrickSlab.redGranite.name=Dalle de brique de granite rouge
+tile.igneousBrickSlab.blackGranite.name=Dalle de brique de granite noir
+tile.igneousBrickSlab.rhyolite.name=Dalle de brique de rhyolite
+tile.igneousBrickSlab.andesite.name=Dalle de brique d'andésite
+tile.igneousBrickSlab.gabbro.name=Dalle de brique de gabbro
+tile.igneousBrickSlab.basalt.name=Dalle de brique de basalte
+tile.igneousBrickSlab.komatiite.name=Dalle de brique de komatiite
+tile.igneousBrickSlab.dacite.name=Dalle de brique de dacite
+
+tile.metamorphicBrickSlab.gneiss.name=Dalle de brique de gneiss
+tile.metamorphicBrickSlab.eclogite.name=Dalle de brique d'éclogite
+tile.metamorphicBrickSlab.marble.name=Dalle de brique de marbre
+tile.metamorphicBrickSlab.quartzite.name=Dalle de brique de quartzite
+tile.metamorphicBrickSlab.blueschist.name=Dalle de brique de schiste bleu
+tile.metamorphicBrickSlab.greenschist.name=Dalle de brique de schiste vert
+tile.metamorphicBrickSlab.soapstone.name=Dalle de brique de talc
+tile.metamorphicBrickSlab.migmatite.name=Dalle de brique de migmatite
+
+tile.anthraciteCoal.name=Anthracite
+
+# Items
+
+item.ligniteCoal.name=Lignite
+item.fossilPiece.ammonite.name=Ammonite fossilisée
+item.fossilPiece.shell.name=Coquille fossilisée
+item.fossilPiece.bone.name=Os fossilisé
+item.fossilPiece.boneshard.name=Fragments osseux
+item.fossilPiece.rib.name=Côte fossilisé
+item.fossilPiece.skull.name=Crâne
+
+# Creative Tabs
+
+itemGroup.undergroundBiomesBlocks=Blocs de Underground Biomes
+itemGroup.undergroundBiomesItems=Objets de Underground Biomes

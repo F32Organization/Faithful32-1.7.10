@@ -1,0 +1,35 @@
+#ru_RU
+
+info.redstonearsenal.tool.chargeOn=для усиления
+info.redstonearsenal.tool.chargeOff=для ослабления
+info.redstonearsenal.tool.energyPerUse=RF за использование
+info.redstonearsenal.tool.shovel=Также служит как мотыга.
+info.redstonearsenal.tool.wrench=Также служит как ножницы.
+
+item.redstonearsenal.material.dustElectrumFlux.name=Флаксовая электрумовая смесь
+item.redstonearsenal.material.ingotElectrumFlux.name=Флаксовый электрумовый слиток
+item.redstonearsenal.material.nuggetElectrumFlux.name=Флаксовый электрумовый самородок
+item.redstonearsenal.material.gemCrystalFlux.name=Флаксовый кристалл
+item.redstonearsenal.material.plateFlux.name=Флаксовое бронированное покрытие
+item.redstonearsenal.material.rodObsidian.name=Обсидиановый стержень
+item.redstonearsenal.material.rodObsidianFlux.name=Заряженный обсидиановый стержень
+
+item.redstonearsenal.armor.fluxHelmet.name=Заряженный флаксом шлем
+item.redstonearsenal.armor.fluxPlate.name=Заряженная флаксом кираса
+item.redstonearsenal.armor.fluxLegs.name=Заряженные флаксом поножи
+item.redstonearsenal.armor.fluxBoots.name=Заряженные флаксом ботинки
+
+item.redstonearsenal.tool.fluxWrench.name=Заряженный флаксом гаечный ключ
+item.redstonearsenal.tool.fluxBattleWrench.name=Заряженный флаксом боевой гаечный ключ
+item.redstonearsenal.tool.fluxSword.name=Заряженный флаксом меч
+item.redstonearsenal.tool.fluxShovel.name=Заряженная флаксом лопата
+item.redstonearsenal.tool.fluxPickaxe.name=Заряженная флаксом кирка
+item.redstonearsenal.tool.fluxAxe.name=Заряженный флаксом топор
+item.redstonearsenal.tool.fluxFishingRod.name=Заряженная флаксом удочка
+item.redstonearsenal.tool.fluxSickle.name=Заряженный флаксом серп
+item.redstonearsenal.tool.fluxBow.name=Заряженный флаксом лук
+
+itemGroup.redstonearsenal.creativeTab=Redstone Arsenal
+
+tile.redstonearsenal.storage.electrumFlux.name=Флаксовый электрумовый блок
+tile.redstonearsenal.storage.crystalFlux.name=Блок флаксового кристалла

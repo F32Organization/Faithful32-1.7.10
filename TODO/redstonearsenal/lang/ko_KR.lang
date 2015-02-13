@@ -1,0 +1,35 @@
+#ko_KR
+
+info.redstonearsenal.tool.chargeOn=폭주모드
+info.redstonearsenal.tool.chargeOff=폭주모드 해제
+info.redstonearsenal.tool.energyPerUse=1회당 사용 RF
+info.redstonearsenal.tool.shovel=괭이겸용
+info.redstonearsenal.tool.wrench=가위겸용
+
+item.redstonearsenal.material.dustElectrumFlux.name=플럭스 일렉트럼 가루
+item.redstonearsenal.material.ingotElectrumFlux.name=플럭스 일렉트럼 주괴
+item.redstonearsenal.material.nuggetElectrumFlux.name=플럭스 일렉트럼 조각
+item.redstonearsenal.material.gemCrystalFlux.name=플럭스 수정
+item.redstonearsenal.material.plateFlux.name=플럭스 장갑판
+item.redstonearsenal.material.rodObsidian.name=흑요석 막대
+item.redstonearsenal.material.rodObsidianFlux.name=주입된 흑요석 막대
+
+item.redstonearsenal.armor.fluxHelmet.name=플럭스가 주입된 핼멧
+item.redstonearsenal.armor.fluxPlate.name=플럭스가 주입된 갑옷
+item.redstonearsenal.armor.fluxLegs.name=플럭스가 주입된 레깅스
+item.redstonearsenal.armor.fluxBoots.name=플럭스가 주입된 부츠
+
+item.redstonearsenal.tool.fluxWrench.name=플럭스가 주입된 만능렌치
+item.redstonearsenal.tool.fluxBattleWrench.name=플럭스가 주입된 전투렌치 
+item.redstonearsenal.tool.fluxSword.name=플럭스가 주입된 검
+item.redstonearsenal.tool.fluxShovel.name=플럭스가 주입된 삽
+item.redstonearsenal.tool.fluxPickaxe.name=플럭스가 주입된 곡괭이
+item.redstonearsenal.tool.fluxAxe.name=플럭스가 주입된 도끼
+item.redstonearsenal.tool.fluxFishingRod.name=플럭스가 주입된 낚시대
+item.redstonearsenal.tool.fluxSickle.name=플럭스가 주입된 낫
+item.redstonearsenal.tool.fluxBow.name=플럭스가 주입된 활
+
+itemGroup.redstonearsenal.creativeTab=레드스톤 아스널[Redstone Arsenal]
+
+tile.redstonearsenal.storage.electrumFlux.name=플럭스 일렉트럼 블럭
+tile.redstonearsenal.storage.crystalFlux.name=플럭스 수정 블럭

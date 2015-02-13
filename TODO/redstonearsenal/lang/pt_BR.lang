@@ -1,0 +1,35 @@
+#pt_BR 
+
+info.redstonearsenal.tool.chargeOn=para Ativar
+info.redstonearsenal.tool.chargeOff=para Desativar
+info.redstonearsenal.tool.energyPerUse=RF por Uso RF Por Uso
+info.redstonearsenal.tool.shovel=Também serve como Enxada
+info.redstonearsenal.tool.wrench=Também serve como Tesoura
+
+item.redstonearsenal.material.dustElectrumFlux.name=Mistura de Electrum com Flux
+item.redstonearsenal.material.ingotElectrumFlux.name=Lingote de Electrum Fluxado
+item.redstonearsenal.material.nuggetElectrumFlux.name=Pepita de Electrum Fluxada
+item.redstonearsenal.material.gemCrystalFlux.name=Cristal de Flux Fluxada
+item.redstonearsenal.material.plateFlux.name=Blindagem Fluxada
+item.redstonearsenal.material.rodObsidian.name=Vara de Obsidiana 
+item.redstonearsenal.material.rodObsidianFlux.name=Vara de Obsidiana Infundida
+
+item.redstonearsenal.armor.fluxHelmet.name=Elmo com Flux Infundido
+item.redstonearsenal.armor.fluxPlate.name=Peitoral com Flux Infundido
+item.redstonearsenal.armor.fluxLegs.name=Calça com Flux Infundido
+item.redstonearsenal.armor.fluxBoots.name=Botas com Flux Infundido
+
+item.redstonearsenal.tool.fluxWrench.name=Chave de Grifo com Flux Infundido
+item.redstonearsenal.tool.fluxBattleWrench.name=Chave de Grifo de Batalha com Flux Infundido
+item.redstonearsenal.tool.fluxSword.name=Espada com Flux Infundido
+item.redstonearsenal.tool.fluxShovel.name=Pá com Flux Infundido
+item.redstonearsenal.tool.fluxPickaxe.name=Picareta com Flux Infundido
+item.redstonearsenal.tool.fluxAxe.name=Machado com Flux Infundido
+item.redstonearsenal.tool.fluxFishingRod.name=Vara de Pesca com Flux Infundido
+item.redstonearsenal.tool.fluxSickle.name=Foice com Flux Infundido
+item.redstonearsenal.tool.fluxBow.name=Arco com Flux Infundido
+
+itemGroup.redstonearsenal.creativeTab=Redstone Arsenal
+
+tile.redstonearsenal.storage.electrumFlux.name=Bloco de Electrum Fluxado
+tile.redstonearsenal.storage.crystalFlux.name=Bloco de Cristal de Flux

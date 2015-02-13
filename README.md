@@ -1,7 +1,7 @@
-Faithful32-1.7.10
+Faithful32-1.7.10 Modded Edition
 =================
 
-**Found this page via Google and looking for the vanilla pack?**  http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254
+**Found this page via Google and looking for the vanilla pack?** http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254
 
 **Description:**
 
@@ -26,3 +26,25 @@ This means you may use this pack or modify it in any way you see fit. You may no
 3) Drag and drop the zip file into the resource pack folder.
 
 4) Go back to Minecraft and select the Faithful 32x32 pack and you are done.
+
+**Mod currently supported:**
+
+If you would see which mod are currently supported go here: https://github.com/F32Organization/Faithful32-1.7.10/tree/master/MODSUPPORTED.md
+
+**Issues:**
+
+Have you found a bug or an outdated/broken texture that you want to let us know? Open an issue.
+
+Have you found a bug or an outdated/broken texture and you want to help up to fix this? Read below!
+
+**Contributing:**
+
+Would you like to contribute to updating/adding textures to this pack? Simply follow these steps:
+
+1) Fork this repository and clone on your Git client.
+
+2) Make your changes in your fork and commit your changes to Github using your client.
+
+3) Make a pull request on this repository, with a description of things you have changed.
+
+4) You are done.
