@@ -1,0 +1,58 @@
+item.sstow.shard_unbound.name=Fragmento de Alma Desvinculado
+item.sstow.shard.name=Fragmento de Alma
+item.sstow.vile_dust.name=Pó Vil
+item.sstow.corrupted_essence.name=Essência Corrupta
+item.sstow.soulium_ingot.name=Barra de Álmio
+item.sstow.soulium_nugget.name=Pepita de Álmio
+item.sstow.iron_nugget.name=Pepita de Ferro
+item.sstow.soul_sword.name=Espada de Almas
+item.sstow.soul_pickaxe.name=Picareta de Almas
+item.sstow.soul_axe.name=Machado de Almas
+item.sstow.soul_hoe.name=Enxada de Almas
+item.sstow.soul_spade.name=Pá de Almas
+
+container.soulforge=Forja das Almas
+
+tile.sstow.forge_block.name=Forja das Almas
+tile.sstow.soulium_block.name=Bloco de Álmio
+tile.sstow.cage_block.name=Jaula de Almas
+
+sstow.waila.soulcage.mob=Entidade: 
+sstow.waila.soulcage.tier=Nível: 
+sstow.waila.soulcage.activated=Estado: Ativada
+sstow.waila.soulcage.deactivated=Estado: Desativada
+sstow.waila.soulcage.empty=Estado: Vazia
+
+enchantment.soul_stealer=Ladrão de Almas
+
+itemGroup.soul_shards_the_old_ways=Soul Shards The Old Ways
+
+achievement.createShard=Criar um Fragmento de Alma
+achievement.createShard.desc=Criou seu primeiro fragmento de alma
+
+achievement.tier1Shard=Opa
+achievement.tier1Shard.desc=Você tem sangue nas suas mãos
+
+achievement.tier2Shard=Assassino
+achievement.tier2Shard.desc=Sua alma está manchada
+
+achievement.tier3Shard=Serial Killer
+achievement.tier3Shard.desc=Você virou o monstro
+
+achievement.tier4Shard=Psicopata
+achievement.tier4Shard.desc=O que tem de errado com você?
+
+achievement.tier5Shard=Maníaco Genocida
+achievement.tier5Shard.desc=Você não tem alma
+
+achievement.createCage=Essas são Jaulas de Almas
+achievement.createCage.desc=Cadê a cabra?
+
+achievement.vile_dust=Fundição Vil
+achievement.vile_dust.desc=Tem um cheiro meio... vil!
+
+achievement.corrupted_essence=Essência da Corrupção
+achievement.corrupted_essence.desc=Um pouco mais corrupta que um político brasileiro!
+
+achievement.soulForge=Forja de Almas
+achievement.soulForge.desc=É tipo uma forja normal, só que pra almas.
