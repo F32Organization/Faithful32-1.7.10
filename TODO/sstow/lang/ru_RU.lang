@@ -1,0 +1,58 @@
+item.sstow.shard_unbound.name=Непривязанный осколок души
+item.sstow.shard.name=Осколок души
+item.sstow.vile_dust.name=Отвратительная пыль
+item.sstow.corrupted_essence.name=Испорченная эссенция
+item.sstow.soulium_ingot.name=Слиток соулима
+item.sstow.soulium_nugget.name=Самородок соулима
+item.sstow.iron_nugget.name=Железный самородок
+item.sstow.soul_sword.name=Меч душ
+item.sstow.soul_pickaxe.name=Кирка душ
+item.sstow.soul_axe.name=Топор душ
+item.sstow.soul_hoe.name=Мотыга душ
+item.sstow.soul_spade.name=Лопата душ
+
+container.soulforge=Кузня душ
+
+tile.sstow.forge_block.name=Кузня душ
+tile.sstow.soulium_block.name=Блок соулима
+tile.sstow.cage_block.name=Клетка для душ
+
+sstow.waila.soulcage.mob=Сущность: 
+sstow.waila.soulcage.tier=Уровень: 
+sstow.waila.soulcage.activated=Статус: Активирована
+sstow.waila.soulcage.deactivated=Статус: Не активирована
+sstow.waila.soulcage.empty=Статус: Пустая
+
+enchantment.soul_stealer=Похититель душ
+
+itemGroup.soul_shards_the_old_ways=Soul Shards The Old Ways
+
+achievement.createShard=Сделайте осколок души
+achievement.createShard.desc=Сделайте свой первый осколок души
+
+achievement.tier1Shard=Упс
+achievement.tier1Shard.desc=Ваши руки в крови
+
+achievement.tier2Shard=Убийца
+achievement.tier2Shard.desc=Ваша душа запятнана
+
+achievement.tier3Shard=Серийный убийца
+achievement.tier3Shard.desc=Вы стали чудовищем
+
+achievement.tier4Shard=Психопат
+achievement.tier4Shard.desc=Что с Вами не так?
+
+achievement.tier5Shard=Геноцид
+achievement.tier5Shard.desc=У Вас нет души
+
+achievement.createCage=Это клетки для душ
+achievement.createCage.desc=Где козёл?
+
+achievement.vile_dust=Отвратительная плавка
+achievement.vile_dust.desc=Пахнет отвратительно
+
+achievement.corrupted_essence=Эссенция порчи
+achievement.corrupted_essence.desc=Чуть больше, чем политическая!
+
+achievement.soulForge=Кузня душ
+achievement.soulForge.desc=Это как обычная кузня, но для душ
