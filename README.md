@@ -29,11 +29,11 @@ This means you may use this pack or modify it in any way you see fit. You may no
 
 **Mod currently supported:**
 
-If you would see which mod are currently supported go [HERE](https://github.com/F32Organization/Faithful32-1.7.10/tree/master/MODSUPPORTED.md) !
+If you would see which mod are currently supported go here: https://github.com/F32Organization/Faithful32-1.7.10/tree/master/MODSUPPORTED.md !
 
 **Issues:**
 
-Have you found a bug or an outdated/broken texture that you want to let us know? Open an issue in this place: [ClickMe](https://github.com/F32Organization/Faithful32-1.7.10/issues)
+Have you found a bug or an outdated/broken texture that you want to let us know? Open an issue in this place: https://github.com/F32Organization/Faithful32-1.7.10/issues
 
 Have you found a bug or an outdated/broken texture and you want to help up to fix this? Read below!
 
@@ -42,6 +42,9 @@ Have you found a bug or an outdated/broken texture and you want to help up to fi
 Would you contribute to update/fix/help/add textures in this pack? Simply follow these steps:
 
 1) Fork this repository and clone this on your Git Windows
+
 2) Make your changes in your fork and commit your changes on github with Github Windows
+
 3) Make a Pull Request on main Faithful32-1.7.10 repository, possibly with a description of things you have changed/deleted/added
+
 4) You have Done!

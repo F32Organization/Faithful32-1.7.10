@@ -1,9 +1,10 @@
 Faithful32-1.7.10 Modded Edition
 =================
-**This is an indicative list, it could be that some mods are _partially_ supported **
+**_This is an indicative list, it could be that some mods are partially supported_**
 
-**This is the list with the mod currently supported from this resource pack ** 
-=================
+**_This is the list with the mod currently supported from this resource pack_**
+_________________
+
 - [Additional Buildcraft Objects](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2310397-additional-buildcraft-objects-a-plugin-for)
 - [Additional Pipes](https://github.com/tcooc/AdditionalPipesBC/releases)
 - [Advanced Machines (AtomicStryker)](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907)
