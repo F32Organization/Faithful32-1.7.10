@@ -1,8 +1,8 @@
 Faithful32-1.7.10 Modded Edition
 =================
-**_This is an indicative list, it could be that some mods are partially supported_**
+**_This is an indicative list, it could be that some mods are partially supported._**
 
-**_This is the list with the mod currently supported from this resource pack_**
+**_This is the list with the mod currently supported from this resource pack._**
 _________________
 
 - [Additional Buildcraft Objects](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2310397-additional-buildcraft-objects-a-plugin-for)
@@ -10,7 +10,7 @@ _________________
 - [Advanced Machines (AtomicStryker)](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907)
 - [Advanced Power Management](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900&pageNo=18)
 - [Advanced Solar Panels](http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291)
-- [Another One Bites the Dust(AOBD)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)
+- [Another One Bites the Dust (AOBD)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)
 - [Apple Core](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)
 - [Applied Energistics 2](http://ae-mod.info/)
 - [Archimedes' Ships](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289952-archimedes-ships-v1-7-banking-ships)
@@ -59,7 +59,7 @@ _________________
 - [GregTech](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156&pageNo=1)
 - [Hopper Ducts](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291075-1-5-x-1-6-x-1-7-x-1-8-hopper-ducts-mod)
 - [IndustrialCraft2](http://forum.industrial-craft.net/index.php?page=Thread&threadID=9843)
-- [IC2Classic](http://forum.industrial-craft.net/index.php?page=Thread&threadID=10313)
+- [IC2 Classic](http://forum.industrial-craft.net/index.php?page=Thread&threadID=10313)
 - [Iron Chest](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0)
 - [JABBA](http://minecraft.curseforge.com/mc-mods/73510-jabba)
 - [Logistics Pipes](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289546-buildcraft-logistics-pipes)
@@ -69,7 +69,7 @@ _________________
 - [Malisis Doors](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076338-1-7-2-1-7-10-forge-malisisdoors-1-7-10-1-4-3-23)
 - [Mekanism](http://aidancbrady.com/mekanism/)
 - [Metallurgy](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295123-metallurgy-4)
-- [MFFS(IC2 Edition)](http://minecraft.curseforge.com/mc-mods/59882-modular-forcefield-system)
+- [MFFS (IC2 Edition)](http://minecraft.curseforge.com/mc-mods/59882-modular-forcefield-system)
 - [Minecraft Vanilla](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8)
 - [Minefactory Reloaded](http://teamcofh.com/)
 - [Modular Powersuits](https://github.com/QMXTech/MachineMusePowersuits/releases)
@@ -77,7 +77,7 @@ _________________
 - [MrTJPCore](http://projectredwiki.com/wiki/MrTJPCore_version_archive)
 - [Mystcraft](http://binarymage.com/)
 - [Natura](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura)
-- [NEI(Not Enough Items)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
+- [NEI (Not Enough Items)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
 - [Nether Ores](http://teamcofh.com/)
 - [Nuclear Control 2](http://forum.industrial-craft.net/index.php?page=Thread&threadID=10649)
 - [Open Blocks](http://openmods.info/)
@@ -107,5 +107,5 @@ _________________
 - [Underground Biomes Constructs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293503-underground-biomes-constructs)
 - [Warp Book](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293310-teleportation-warp-book)
 - [Witchery](http://minecraft.curseforge.com/mc-mods/69673-witchery)
-- [WR-CBE(Wireless Redstone Chicken Bones Edition)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
+- [WR-CBE (Wireless Redstone Chicken Bones Edition)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
 - [Xeno's Reliquary](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2234220-xenos-reliquary)
