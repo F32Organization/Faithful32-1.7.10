@@ -1,6 +1,6 @@
 Faithful32-1.7.10 Modded Edition
 =================
-**_This is an indicative list, it could be that some mods are partially supported._**
+**_This list is indiscriminate, some mods are only partially supported._**
 
 **_This is the list with the mod currently supported from this resource pack._**
 _________________
