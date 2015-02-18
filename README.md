@@ -33,18 +33,18 @@ If you would see which mod are currently supported go here: https://github.com/F
 
 **Issues:**
 
-Have you found a bug or an outdated/broken texture that you want to let us know? Open an issue in this place: https://github.com/F32Organization/Faithful32-1.7.10/issues
+Have you found a bug or an outdated/broken texture that you want to let us know? Open an issue.
 
 Have you found a bug or an outdated/broken texture and you want to help up to fix this? Read below!
 
 **Contributing:**
 
-Would you contribute to update/fix/help/add textures in this pack? Simply follow these steps:
+Would you like to contribute to updating/adding textures to this pack? Simply follow these steps:
 
-1) Fork this repository and clone this on your Git Windows.
+1) Fork this repository and clone on your Git client.
 
-2) Make your changes in your fork and commit your changes on github with Github Windows.
+2) Make your changes in your fork and commit your changes to Github using your client.
 
-3) Make a Pull Request on main Faithful32-1.7.10 repository, possibly with a description of things you have changed/deleted/added.
+3) Make a pull request on this repository, with a description of things you have changed.
 
-4) You have Done.
+4) You are done.
