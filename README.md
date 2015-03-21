@@ -1,7 +1,7 @@
 Faithful32-1.7.10 Modded Edition
 =================
 
-**Found this page via Google and looking for the vanilla pack?** http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254
+**Found this page via Google and looking for the** [vanilla pack](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254)?
 
 **Description:**
 
@@ -19,7 +19,7 @@ This means you may use this pack or modify it in any way you see fit. You may no
 
 **Downloading and Usage:**
 
-1) Download the latest pack from this site. http://www.magnificentbastards.net/faithful/
+1) Download the latest pack from this [site](http://www.magnificentbastards.net/faithful/).
 
 2) Run Minecraft, select "Options...", select "Resource Packs", select "Open resource pack folder".
 
@@ -29,7 +29,7 @@ This means you may use this pack or modify it in any way you see fit. You may no
 
 **Mod currently supported:**
 
-If you would see which mod are currently supported go here: https://github.com/F32Organization/Faithful32-1.7.10/tree/master/MODSUPPORTED.md
+If you would see which mod are currently supported go [here](https://github.com/F32Organization/Faithful32-1.7.10/tree/master/MODSUPPORTED.md).
 
 **Issues:**
 
