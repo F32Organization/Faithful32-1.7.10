@@ -1,7 +1,9 @@
 Faithful32-1.7.10 Modded Edition
 =================
 
-**Found this page via Google and looking for the** [vanilla pack](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254)?
+~~**Found this page via Google and looking for the** [vanilla pack](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254)?~~
+
+**Edit: Currently Vattic's download link for the vanilla pack is down.** I have the latest version rehosted here: http://f32.me/faithful32pack.zip
 
 **Description:**
 
