@@ -1,0 +1,20 @@
+# This is an example file for the water.
+# In this animation, the top frame (index 0) is displayed for two second, and each subsequent frame for 1/20 second (1 tick).
+# This is just an example. Any setup that works for a normal block will also work for water.
+
+{
+  "animation": {
+    "frames": [
+      {
+        "index": 0,
+        "time": 20
+      },
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}

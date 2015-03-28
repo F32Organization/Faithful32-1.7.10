@@ -1,11 +1,13 @@
 Faithful32-1.7.10 Modded Edition
 =================
 
-**Found this page via Google and looking for the** [vanilla pack](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254)?
+~~**Found this page via Google and looking for the** [vanilla pack](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254)?~~
+
+**Edit: Currently Vattic's download link for the vanilla pack is down.** I have the latest version rehosted here: http://f32.me/faithful32pack.zip
 
 **Description:**
 
-Faithful with mods support: All textures done in Faithful32 style.
+Faithful 32 with mod support: All textures done to match original style.
 
 The original pack is made by Vattic and a long list of helpers. Please look under the Credits section of his forum post I linked above.
 
@@ -19,13 +21,13 @@ This means you may use this pack or modify it in any way you see fit. You may no
 
 **Downloading and Usage:**
 
-1) Download the latest pack from this [site](http://www.magnificentbastards.net/faithful/).
+1) Download the latest pack from this [site](http://f32.me/).
 
 2) Run Minecraft, select "Options...", select "Resource Packs", select "Open resource pack folder".
 
 3) Drag and drop the zip file into the resource pack folder.
 
-4) Go back to Minecraft and select the Faithful 32x32 pack and you are done.
+4) Go back to Minecraft and select the Faithful pack and you are done.
 
 **Mod currently supported:**
 
