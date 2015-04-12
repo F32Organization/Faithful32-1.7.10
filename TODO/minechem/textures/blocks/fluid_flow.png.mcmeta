@@ -1,0 +1,8 @@
+# This is an animation file for flowing water.
+# It's no different than the animation file for any other block or item.
+# Remember that each frame of a FLOWING Liquid animation must be DOUBLE size in both Width and Height
+#	of the rest of your blocks to be at the same resolution.
+# For example: If your pack is 16x each frame of your FLOWING Liquid animation must be 32 x 32 to appear 16x.
+# This only applies to FLOWING Water and FLOWING Lava. The still liquids are the same as any other block.
+
+{ "animation": { } }
