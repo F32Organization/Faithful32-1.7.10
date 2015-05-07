@@ -102,6 +102,7 @@ _________________
 - [Thermal Foundation](http://teamcofh.com/)
 - [Tinkers Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 - [Tinkers Mechworks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2261817-tinkers-mechworks)
+- [Tinkers Steelworks](https://github.com/Ephys/TinkersSteelworks/releases)
 - [TubeStuff](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers)
 - [Twilight Forest](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-3-3-snow-queen-troll)
 - [Underground Biomes Constructs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293503-underground-biomes-constructs)
