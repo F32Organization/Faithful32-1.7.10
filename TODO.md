@@ -4,4 +4,4 @@ Pull requests to expand the TODO folder are acceptable provided they are correct
 
 **Do decoration and world gen blocks first when possible**
 
-You find all TODO textures [here](https://github.com/F32Organization/Faithful32-1.7.10/tree/master/TODO).
+You can find all TODO textures [here](https://github.com/F32Organization/Faithful32-1.7.10/tree/master/TODO).
