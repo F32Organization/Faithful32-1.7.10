@@ -35,6 +35,7 @@ _________________
 - [CoFH Core](http://teamcofh.com/)
 - [Compact Solar Arrays](http://forum.industrial-craft.net/?page=Thread&threadID=4827)
 - [ComputerCraft](http://www.computercraft.info/)
+- [Computronics](http://wiki.vex.tty.sh/wiki:computronics)
 - [Dimensional Doors](https://github.com/CannibalVox/DimDoors)
 - [Ender Enhancement](http://minecraft.curseforge.com/mc-mods/223402-ender-enhancement)
 - [Equivalent Exchange 3](http://ee3.pahimar.com/)
