@@ -87,6 +87,7 @@ _________________
 - [Minechem](http://minecraft.curseforge.com/mc-mods/73373-minechem)
 - [Minecraft Vanilla](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8)
 - [Minefactory Reloaded](http://teamcofh.com/)
+- [Matter Overdrive](http://simeon.co.vu/Mods/MatterOverdrive/)
 - [Modular Powersuits](https://github.com/QMXTech/MachineMusePowersuits/releases)
 - [Modular Powersuits Addons](https://github.com/QMXTech/MachineMusePowersuits/releases)
 - [More Chisels](http://minecraft.curseforge.com/mc-mods/227904-morechisels)
