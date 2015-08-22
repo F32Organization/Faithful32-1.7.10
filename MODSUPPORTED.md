@@ -66,7 +66,7 @@ _________________
 - [Forge Multipart](http://files.minecraftforge.net/ForgeMultipart/)
 - [Funky Locomotion](http://minecraft.curseforge.com/mc-mods/224190-funky-locomotion)
 - [Galacticraft Core](http://micdoodle8.com/mods/galacticraft)
-- [Galacticraft Plantets](http://micdoodle8.com/mods/galacticraft)
+- [Galacticraft Planets](http://micdoodle8.com/mods/galacticraft)
 - [Gany's Surface](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291094-ganys-surface-miscellaneous-overworld-themed)
 - [GeoStrata](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291655-reikas-mods-tech-worldgen-civilization-and-more)
 - [Gravitation Suite](http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915)
