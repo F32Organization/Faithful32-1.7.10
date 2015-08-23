@@ -149,3 +149,4 @@ _________________
 - [WR-CBE (Wireless Redstone Chicken Bones Edition)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
 - [Xeno's Reliquary](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2234220-xenos-reliquary)
 - [ZTones](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x)
+- [Storage Drawers](http://www.curse.com/mc-mods/minecraft/230832-storage-drawers-biomes-o-plenty-pack)
