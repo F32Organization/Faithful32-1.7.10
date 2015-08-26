@@ -52,6 +52,7 @@ _________________
 - [Enhanced Portals 3](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292751-enhancedportals-3)
 - [EnviroMine](https://github.com/Funwayguy/EnviroMine/wiki/Downloads)
 - [Enchanting Plus](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286469-enchanting-plus)
+- [Et Futurum](http://minecraft.curseforge.com/mc-mods/230114-et-futurum)
 - [ExNihilo](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291850-ex-nihilo-the-skyblock-companion-mod)
 - [ExtrabiomesXL](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282126-extrabiomesxl-universal-3-16-0-for-mc-1-7-10)
 - [Extra Cells 2](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-3-2-1-37-2-2-53)
