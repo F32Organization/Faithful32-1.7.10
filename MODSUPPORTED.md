@@ -76,6 +76,7 @@ _________________
 - [IndustrialCraft2](http://forum.industrial-craft.net/index.php?page=Thread&threadID=9843)
 - [IC2 Classic](http://forum.industrial-craft.net/index.php?page=Thread&threadID=10313)
 - [Iguana's Tinker Tweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855-iguanas-tinker-tweaks)
+- [Immersive Engineering](http://minecraft.curseforge.com/mc-mods/231951-immersive-engineering)
 - [Iron Chest](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0)
 - [JABBA](http://minecraft.curseforge.com/mc-mods/73510-jabba)
 - [Logistics Pipes](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289546-buildcraft-logistics-pipes)
