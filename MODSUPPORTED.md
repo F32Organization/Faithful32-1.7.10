@@ -132,6 +132,7 @@ _________________
 - [Steve's Factory Manager](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager)
 - [Steve's Workshop](http://minecraft.curseforge.com/mc-mods/223173-steves-workshop)
 - [Storage Drawers](http://www.curse.com/mc-mods/minecraft/223852-storage-drawers)
+- [Storage Drawers: Biomes O' Plenty Pack](http://www.curse.com/mc-mods/minecraft/230832-storage-drawers-biomes-o-plenty-pack)
 - [Thaumic Energistics](http://minecraft.curseforge.com/mc-mods/223666-thaumic-energistics)
 - [Thaumic Exploration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445786-1-6-4-1-7-10-thaumic-exploration-0-6-0-thaumcraft)
 - [Thaumic Tinkerer](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289299-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge)
@@ -155,4 +156,3 @@ _________________
 - [WR-CBE (Wireless Redstone Chicken Bones Edition)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
 - [Xeno's Reliquary](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2234220-xenos-reliquary)
 - [ZTones](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x)
-- [Storage Drawers](http://www.curse.com/mc-mods/minecraft/230832-storage-drawers-biomes-o-plenty-pack)
