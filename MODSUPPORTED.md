@@ -127,6 +127,7 @@ _________________
 - [RotaryCraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291655-reikas-mods-tech-worldgen-civilization-and-more)
 - [Simply Jetpacks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294687-toniuss-mods-simply-jetpacks-nei-integration)
 - [Smart Moving](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274224-smart-moving)
+- [Sodacan Torches](http://minecraft.curseforge.com/mc-mods/232933-sodacan-torches)
 - [Soul Shards: The Old Ways](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2329877-soul-shards-the-old-ways-rc7-update)
 - [Solar Expansion](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2188753-active-solar-expansion-v1-6a-now-back-and-better)
 - [Steve's Carts 2](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277433-1-6-steves-carts-2-v2-0-0-a123)
