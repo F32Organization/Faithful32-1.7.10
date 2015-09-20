@@ -94,6 +94,7 @@ _________________
 - [Minecraft Vanilla](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8)
 - [Minefactory Reloaded](http://teamcofh.com/)
 - [Matter Overdrive](http://simeon.co.vu/Mods/MatterOverdrive/)
+- [MrCrayfish's Furniture](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349-mrcrayfishs-furniture-mod-v3-4-8-the-kitchen)
 - [Modular Powersuits](https://github.com/QMXTech/MachineMusePowersuits/releases)
 - [Modular Powersuits Addons](https://github.com/QMXTech/MachineMusePowersuits/releases)
 - [More Chisels](http://minecraft.curseforge.com/mc-mods/227904-morechisels)
