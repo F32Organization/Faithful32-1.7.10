@@ -149,6 +149,7 @@ _________________
 - [Tinkers Steelworks](https://github.com/Ephys/TinkersSteelworks/releases)
 - [TubeStuff](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers)
 - [Twilight Forest](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-3-3-snow-queen-troll)
+- [Uncrafting Table Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290409-uncrafting-table-mod-works-for-all-items-even-from)
 - [Underground Biomes Constructs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293503-underground-biomes-constructs)
 - [Version Checker](http://www.curse.com/mc-mods/minecraft/221140-version-checker)
 - [Warp Book](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293310-teleportation-warp-book)
