@@ -34,6 +34,7 @@ _________________
 - [Carpenter's Blocks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288875-carpenters-blocks)
 - [Chicken Chunks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
 - [Chisel 2](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2254671-chisel-2-2-3-5)
+- [Chromaticraft](https://sites.google.com/site/reikasminecraft/chromaticraft)
 - [CoFH Core](http://teamcofh.com/)
 - [Compact Solar Arrays](http://forum.industrial-craft.net/?page=Thread&threadID=4827)
 - [ComputerCraft](http://www.computercraft.info/)
