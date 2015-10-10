@@ -76,7 +76,7 @@ _________________
 - [Highlands](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104582-forge-highlands-2-2-3-updated-february-19)
 - [Hopper Ducts](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291075-1-5-x-1-6-x-1-7-x-1-8-hopper-ducts-mod)
 - [IndustrialCraft2](http://forum.industrial-craft.net/index.php?page=Thread&threadID=9843)
-- [IC2 Classic](http://forum.industrial-craft.net/index.php?page=Thread&threadID=10313)
+- [IndustrialCraft2 Classic (Speiger)](https://github.com/TinyModularThings/IC2Classic)
 - [Iguana's Tinker Tweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855-iguanas-tinker-tweaks)
 - [Immersive Engineering](http://minecraft.curseforge.com/mc-mods/231951-immersive-engineering)
 - [Iron Chest](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0)
