@@ -124,6 +124,7 @@ _________________
 - [Random Additions](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288963-randomadditions-alpha-v0-10-updated-adding-a-new)
 - [RandomThings](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-1-5)
 - [ReactorCraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291655-reikas-mods-tech-worldgen-civilization-and-more)
+- [Redstone Armory](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2111983-redstone-armory-enhancing-the-flux-revolution-1-7)
 - [Redstone Arsenal](http://teamcofh.com/)
 - [RFTools](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-crafter)
 - [RotaryCraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291655-reikas-mods-tech-worldgen-civilization-and-more)
