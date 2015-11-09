@@ -1,7 +1,7 @@
 Faithful32-1.7.10 Modded Edition
 =================
 
-**Found this page via Google and looking for the** [vanilla pack](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254)?
+**Looking for the** [vanilla pack](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254)?
 
 **Description:**
 
@@ -9,13 +9,11 @@ Faithful 32 with mod support: All textures done to match the original style.
 
 The original pack is made by Vattic and a long list of helpers. Please look under the Credits section of his forum post linked above.
 
-This repository is a complete resource pack, you do not need to add this to vanilla Faithful 32x.
+This repository is a complete resource pack, you do not need to add this to vanilla Faithful 32.
 
 **License:**
 
-Not all works are original, a lot of things are reorganized to make them work with the latest version of any given mod.
-All textures are for use in playing Minecraft with mods or creating derivative works.
-This means you may use this pack or modify it in any way you see fit. You may not profit from its distribution or the distribution of derivatives.
+You may use modify this pack in any way you see fit. You may not profit from its distribution or the distribution of derivatives.
 
 **Downloading and Usage:**
 
@@ -33,18 +31,24 @@ If you would see which mods are currently supported go [here](https://github.com
 
 **Issues:**
 
-Have you found a bug or an outdated/broken texture and would like to let us know about it? Open an [issue](https://github.com/F32Organization/Faithful32-1.7.10/issues).
+Have you found a bug or outdated/broken texture and would like to let us know about it? Open an [issue](https://github.com/F32Organization/Faithful32-1.7.10/issues).
 
-Have you found a bug or an outdated/broken texture and would like to fix it? Read below!
+Have you found a bug or outdated/broken texture and would like to fix it? Read below!
 
 **Contributing:**
 
-Would you like to contribute to updating/adding textures to this pack? Simply follow these steps:
+Simply follow these steps:
 
-1) Fork this repository and clone the resulting fork on your Git client.
+1) Fork this repository and clone the resulting fork into your Git local client.
 
-2) Make changes to your fork and commit those changes to Github using your client.
+2) Make changes to your fork and commit those changes. Seperate your commits between topics!
 
-3) Make a pull request on this repository, with a description of things you have changed.
+3) Sync your local changes to your remote fork.
 
-4) You are done.
+4) Make a pull request(PR) on this repository with a brief description.
+
+5) Other users or team members will give your PR a quality review and if it passes, it will be merged.
+
+OR
+
+1) Contact DZCreeper directly with textures. They will undergo the same quality review as normal submissions.
