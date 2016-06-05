@@ -11,6 +11,7 @@ _________________
 - [Advanced Machines (AtomicStryker)](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907)
 - [Advanced Power Management](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900&pageNo=18)
 - [Advanced Solar Panels](http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291)
+- [Agricraft](https://github.com/InfinityRaider/AgriCraft/releases)
 - [Antique Atlas](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas)
 - [Another One Bites the Dust (AOBD)](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)
 - [Apple Core](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)
