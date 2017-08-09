@@ -13,7 +13,7 @@ This repository is a complete resource pack, you do not need to add this to vani
 
 **License:**
 
-You may use modify this pack in any way you see fit. You may not profit from its distribution or the distribution of derivatives.
+You may use/modify this pack in any way you see fit. You may not profit from its distribution or the distribution of derivatives.
 
 **Downloading and Usage:**
 
@@ -48,7 +48,3 @@ Simply follow these steps:
 4) Make a pull request(PR) on this repository with a brief description.
 
 5) Other users or team members will give your PR a quality review and if it passes, it will be merged.
-
-OR
-
-1) Contact DZCreeper directly with textures. They will undergo the same quality review as normal submissions.
